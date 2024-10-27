@@ -1,5 +1,4 @@
 Project Two: Dashboard Code and CRUD Module for Grazioso Salvare
-This repository includes the final dashboard code and README documentation from Project Two, along with a custom CRUD Python module from Project One. Below, I’ve provided answers to questions about the project and a brief overview of my approach to designing a maintainable, readable, and adaptable codebase.
 
 1. Writing Maintainable, Readable, and Adaptable Programs
 To develop maintainable, readable, and adaptable programs, I focused on three key principles: modularity, clarity, and scalability. I achieved modularity by separating the CRUD operations into a dedicated Python module, allowing me to isolate database interactions from the main logic. This made the codebase easier to debug and adjust. Clear naming conventions and concise documentation were essential for readability, especially in the dashboard code where widget functions connect to database operations. Structuring the code this way made it easier to adapt and update, even as the project evolved.
